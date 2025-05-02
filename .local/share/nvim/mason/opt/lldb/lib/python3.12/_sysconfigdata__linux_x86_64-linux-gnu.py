@@ -1,0 +1,1 @@
+/home/ntaun/.local/share/nvim/mason/packages/codelldb/extension/lldb/lib/python3.12/_sysconfigdata__linux_x86_64-linux-gnu.py

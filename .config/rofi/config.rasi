@@ -1,0 +1,18 @@
+@theme "/home/ntaun/.local/share/rofi/themes/squared-material-red.rasi"
+
+configuration{
+	modi:"run,window,combi";
+	icon-theme:"Oranchelo";
+	show-icons: true;
+	terminal: "alacritty";
+	drun-display-format: "{icon} {name}";
+	location: 0;
+	disable-history: false;
+	hide-scrollbar: true;
+	display-combi: "ALL";
+	display-run: "RUN";
+	display-window: "WINDOW";
+	sidebar-mode: true;
+}
+
+

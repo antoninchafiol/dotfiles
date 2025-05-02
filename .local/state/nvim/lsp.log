@@ -1,0 +1,70 @@
+[START][2025-05-02 11:43:10] LSP logging initiated
+[ERROR][2025-05-02 11:43:10] .../lua/vim/lsp.lua:473	"cannot start cssls due to config error: ....mount_nvimMDBoPH/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7f74b26d4868. Info: vscode-css-language-server is not executable"
+[ERROR][2025-05-02 11:43:10] .../lua/vim/lsp.lua:473	"cannot start html due to config error: ....mount_nvimMDBoPH/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7f74b2931080. Info: vscode-html-language-server is not executable"
+[ERROR][2025-05-02 11:43:10] .../lua/vim/lsp.lua:473	"cannot start lua_ls due to config error: ....mount_nvimMDBoPH/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7f74b2711dc0. Info: lua-language-server is not executable"
+[START][2025-05-02 11:58:36] LSP logging initiated
+[ERROR][2025-05-02 11:58:36] .../lua/vim/lsp.lua:473	"cannot start cssls due to config error: ....mount_nvimgjcmCf/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7f38e1be4110. Info: vscode-css-language-server is not executable"
+[ERROR][2025-05-02 11:58:36] .../lua/vim/lsp.lua:473	"cannot start html due to config error: ....mount_nvimgjcmCf/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7f38e1be8918. Info: vscode-html-language-server is not executable"
+[ERROR][2025-05-02 11:58:36] .../lua/vim/lsp.lua:473	"cannot start lua_ls due to config error: ....mount_nvimgjcmCf/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7f38e1becae8. Info: lua-language-server is not executable"
+[START][2025-05-02 12:01:32] LSP logging initiated
+[ERROR][2025-05-02 12:01:32] .../lua/vim/lsp.lua:473	"cannot start cssls due to config error: ....mount_nvimcAHbme/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7f100c338928. Info: vscode-css-language-server is not executable"
+[ERROR][2025-05-02 12:01:32] .../lua/vim/lsp.lua:473	"cannot start html due to config error: ....mount_nvimcAHbme/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7f100c33d7b0. Info: vscode-html-language-server is not executable"
+[ERROR][2025-05-02 12:01:32] .../lua/vim/lsp.lua:473	"cannot start lua_ls due to config error: ....mount_nvimcAHbme/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7f100c340da0. Info: lua-language-server is not executable"
+[ERROR][2025-05-02 12:02:25] .../lua/vim/lsp.lua:473	"cannot start cssls due to config error: ....mount_nvimcAHbme/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7f100c338928. Info: vscode-css-language-server is not executable"
+[ERROR][2025-05-02 12:02:25] .../lua/vim/lsp.lua:473	"cannot start html due to config error: ....mount_nvimcAHbme/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7f100c33d7b0. Info: vscode-html-language-server is not executable"
+[ERROR][2025-05-02 12:02:25] .../lua/vim/lsp.lua:473	"cannot start lua_ls due to config error: ....mount_nvimcAHbme/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7f100c340da0. Info: lua-language-server is not executable"
+[START][2025-05-02 12:06:10] LSP logging initiated
+[WARN][2025-05-02 12:06:10] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[START][2025-05-02 12:07:36] LSP logging initiated
+[ERROR][2025-05-02 12:07:36] .../lua/vim/lsp.lua:473	"cannot start cssls due to config error: ....mount_nvimhlHbHh/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fb1f1509888. Info: vscode-css-language-server is not executable"
+[ERROR][2025-05-02 12:07:36] .../lua/vim/lsp.lua:473	"cannot start html due to config error: ....mount_nvimhlHbHh/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fb1f150f3e0. Info: vscode-html-language-server is not executable"
+[ERROR][2025-05-02 12:07:36] .../lua/vim/lsp.lua:473	"cannot start lua_ls due to config error: ....mount_nvimhlHbHh/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fb1f1513268. Info: lua-language-server is not executable"
+[START][2025-05-02 12:20:04] LSP logging initiated
+[ERROR][2025-05-02 12:20:04] .../lua/vim/lsp.lua:473	"cannot start cssls due to config error: ....mount_nvimaJJNKb/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fed5cf1e870. Info: vscode-css-language-server is not executable"
+[ERROR][2025-05-02 12:20:04] .../lua/vim/lsp.lua:473	"cannot start html due to config error: ....mount_nvimaJJNKb/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fed5d13e2d8. Info: vscode-html-language-server is not executable"
+[ERROR][2025-05-02 12:20:04] .../lua/vim/lsp.lua:473	"cannot start lua_ls due to config error: ....mount_nvimaJJNKb/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fed5cec6a50. Info: lua-language-server is not executable"
+[ERROR][2025-05-02 12:33:33] .../lua/vim/lsp.lua:473	"cannot start cssls due to config error: ....mount_nvimhlHbHh/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fb1f1509888. Info: vscode-css-language-server is not executable"
+[ERROR][2025-05-02 12:33:33] .../lua/vim/lsp.lua:473	"cannot start html due to config error: ....mount_nvimhlHbHh/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fb1f150f3e0. Info: vscode-html-language-server is not executable"
+[ERROR][2025-05-02 12:33:33] .../lua/vim/lsp.lua:473	"cannot start lua_ls due to config error: ....mount_nvimhlHbHh/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fb1f1513268. Info: lua-language-server is not executable"
+[START][2025-05-02 12:34:34] LSP logging initiated
+[WARN][2025-05-02 12:34:34] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[START][2025-05-02 12:34:57] LSP logging initiated
+[WARN][2025-05-02 12:34:57] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[START][2025-05-02 13:10:50] LSP logging initiated
+[WARN][2025-05-02 13:10:50] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[START][2025-05-02 13:11:54] LSP logging initiated
+[WARN][2025-05-02 13:11:54] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[START][2025-05-02 13:24:00] LSP logging initiated
+[WARN][2025-05-02 13:24:00] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[START][2025-05-02 13:25:49] LSP logging initiated
+[ERROR][2025-05-02 13:25:49] .../lua/vim/lsp.lua:473	"cannot start cssls due to config error: ....mount_nvimJhPIMC/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fecf7fc0ca0. Info: vscode-css-language-server is not executable"
+[ERROR][2025-05-02 13:25:49] .../lua/vim/lsp.lua:473	"cannot start html due to config error: ....mount_nvimJhPIMC/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fecf823d820. Info: vscode-html-language-server is not executable"
+[ERROR][2025-05-02 13:25:49] .../lua/vim/lsp.lua:473	"cannot start lua_ls due to config error: ....mount_nvimJhPIMC/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fecf7d53b00. Info: lua-language-server is not executable"
+[ERROR][2025-05-02 13:26:05] .../lua/vim/lsp.lua:473	"cannot start cssls due to config error: ....mount_nvimJhPIMC/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fecf7fc0ca0. Info: vscode-css-language-server is not executable"
+[ERROR][2025-05-02 13:26:05] .../lua/vim/lsp.lua:473	"cannot start html due to config error: ....mount_nvimJhPIMC/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fecf823d820. Info: vscode-html-language-server is not executable"
+[ERROR][2025-05-02 13:26:05] .../lua/vim/lsp.lua:473	"cannot start lua_ls due to config error: ....mount_nvimJhPIMC/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fecf7d53b00. Info: lua-language-server is not executable"
+[START][2025-05-02 13:26:36] LSP logging initiated
+[WARN][2025-05-02 13:26:36] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[START][2025-05-02 15:16:28] LSP logging initiated
+[WARN][2025-05-02 15:16:28] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[WARN][2025-05-02 15:16:28] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[ERROR][2025-05-02 15:16:28] .../lua/vim/lsp.lua:473	"cannot start cssls due to config error: ....mount_nvimlNBILI/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fa382f28508. Info: vscode-css-language-server is not executable"
+[ERROR][2025-05-02 15:16:28] .../lua/vim/lsp.lua:473	"cannot start html due to config error: ....mount_nvimlNBILI/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fa382eebb18. Info: vscode-html-language-server is not executable"
+[ERROR][2025-05-02 15:16:28] .../lua/vim/lsp.lua:473	"cannot start lua_ls due to config error: ....mount_nvimlNBILI/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fa382eef250. Info: lua-language-server is not executable"
+[START][2025-05-02 15:54:04] LSP logging initiated
+[WARN][2025-05-02 15:54:04] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[WARN][2025-05-02 15:54:04] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[START][2025-05-02 15:54:30] LSP logging initiated
+[WARN][2025-05-02 15:54:30] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[WARN][2025-05-02 15:54:31] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[START][2025-05-02 15:55:16] LSP logging initiated
+[WARN][2025-05-02 15:55:16] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[WARN][2025-05-02 15:55:16] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[WARN][2025-05-02 15:55:16] .../lua/vim/lsp.lua:411	"rust-analyzer does not have a configuration"
+[ERROR][2025-05-02 15:55:16] .../lua/vim/lsp.lua:473	"cannot start cssls due to config error: ....mount_nvimfbIHJe/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fe61fc69f38. Info: vscode-css-language-server is not executable"
+[ERROR][2025-05-02 15:55:16] .../lua/vim/lsp.lua:473	"cannot start html due to config error: ....mount_nvimfbIHJe/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fe61fc2d920. Info: vscode-html-language-server is not executable"
+[ERROR][2025-05-02 15:55:16] .../lua/vim/lsp.lua:473	"cannot start lua_ls due to config error: ....mount_nvimfbIHJe/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7fe61fc30f08. Info: lua-language-server is not executable"
+[START][2025-05-02 16:23:32] LSP logging initiated
+[ERROR][2025-05-02 16:23:32] .../lua/vim/lsp.lua:473	"cannot start cssls due to config error: ....mount_nvimnJekbA/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7f08870164e0. Info: vscode-css-language-server is not executable"
+[ERROR][2025-05-02 16:23:32] .../lua/vim/lsp.lua:473	"cannot start html due to config error: ....mount_nvimnJekbA/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7f08871a4010. Info: vscode-html-language-server is not executable"
+[ERROR][2025-05-02 16:23:32] .../lua/vim/lsp.lua:473	"cannot start lua_ls due to config error: ....mount_nvimnJekbA/usr/share/nvim/runtime/lua/vim/lsp.lua:462: cmd: expected expected function or table with executable command, got table: 0x7f0886e84850. Info: lua-language-server is not executable"

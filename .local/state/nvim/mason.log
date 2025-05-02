@@ -1,0 +1,6 @@
+[INFO  Fri 02 May 2025 11:49:08 BST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Fri 02 May 2025 11:49:10 BST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  Fri 02 May 2025 11:59:32 BST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  Fri 02 May 2025 11:59:41 BST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=rust-analyzer)
+[INFO  Fri 02 May 2025 11:59:53 BST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=codelldb) {}
+[INFO  Fri 02 May 2025 12:00:13 BST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=codelldb)
