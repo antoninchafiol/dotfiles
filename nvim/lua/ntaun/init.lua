@@ -1,0 +1,6 @@
+require("ntaun.mappings")
+require("ntaun.packer")
+require("ntaun.set")
+require("ntaun.lsp")
+require("ntaun.completion")
+-- require("ntaun.formatting")

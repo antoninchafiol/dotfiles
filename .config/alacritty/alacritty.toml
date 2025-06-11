@@ -1,0 +1,5 @@
+[font]
+# The “normal” font face and style
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
+# Font size in points (floating‑point is allowed)
+size = 14
